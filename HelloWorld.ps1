@@ -1,3 +1,5 @@
+#This is a Hello World function
+
 function Get-HelloWorld{
     param([string]$name)
 
